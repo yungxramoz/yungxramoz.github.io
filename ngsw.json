@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "timestamp": 1703121562547,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.809c2cd7a793070a.js",
+        "/manifest.webmanifest",
+        "/polyfills.f42e8324c5c7cbb0.js",
+        "/runtime.0ff8b5c7db2b67dc.js",
+        "/styles.ea3cebc182906b5d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/tg-image-outline.svg",
+        "/assets/tg-wizard-bw.svg",
+        "/assets/tg-wizard-no-bg.svg",
+        "/assets/tg-wizard.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "e61dfd234df661fda7c0ace49a25cdb0e8f90033",
+    "/assets/icons/icon-144x144.png": "de7921754f33ae3d5dcc9dfa1ff888214c15edd9",
+    "/assets/icons/icon-152x152.png": "4f5d25fd497c2674b73fb989428f15ca5124779c",
+    "/assets/icons/icon-192x192.png": "649ae2986ae85d652e28820299f254633cfcd99d",
+    "/assets/icons/icon-384x384.png": "8d265241737b80241b5bb391e0bc198e6905c838",
+    "/assets/icons/icon-512x512.png": "d6bc3732baf8533ade81cf0c210701e5a4bccf1f",
+    "/assets/icons/icon-72x72.png": "6b495f76e0e67d904b3bfab87e5943606b2573ed",
+    "/assets/icons/icon-96x96.png": "61c81d428b176454e1876920b01999fb2c227d3b",
+    "/assets/tg-image-outline.svg": "f29ae483321c83a2ce299ceff397726841cef01e",
+    "/assets/tg-wizard-bw.svg": "87ac1fd063effea1469aee87cca04c538b4777af",
+    "/assets/tg-wizard-no-bg.svg": "0bf97a7ec61a409b2c58b900e74c8235c673824e",
+    "/assets/tg-wizard.svg": "0f90556ba7ada6d9103eb0fcbdda50d08ac706f2",
+    "/favicon.ico": "60c9a219b9d49b87e5bf452c9ef0a456fd36fb03",
+    "/index.html": "b7724e7d3e814ae7f134bfdc7007a13b0e87e5e7",
+    "/main.809c2cd7a793070a.js": "69e36dd4936ac09236e76aa8754f34573cd60a37",
+    "/manifest.webmanifest": "ab6fb39e72204025b72780313b556dd33556753e",
+    "/polyfills.f42e8324c5c7cbb0.js": "b7e2e9988e44802b1455777a2333ba5bd5280c91",
+    "/runtime.0ff8b5c7db2b67dc.js": "b35a10b43a2272b93967806123e25d85b11ab64f",
+    "/styles.ea3cebc182906b5d.css": "70ef1d79c3a63f4ab3ee5a071c682bef0ebc437f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
