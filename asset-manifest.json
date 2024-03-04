@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.70b3b8ed.css",
-    "main.js": "/static/js/main.35e3df41.js",
+    "main.css": "/static/css/main.69274877.css",
+    "main.js": "/static/js/main.dd57baba.js",
     "static/media/dungeon-4.png": "/static/media/dungeon-4.adb2cd288fde5e29ea56.png",
     "static/media/cave-5.png": "/static/media/cave-5.4caf6dd0ff44592a0bda.png",
     "static/media/dungeon-1.png": "/static/media/dungeon-1.5fe982681dc8e7d4b64c.png",
@@ -44,11 +44,11 @@
     "static/media/dance-of-the-dead.svg": "/static/media/dance-of-the-dead.faf3367330389c34c1ac.svg",
     "static/media/double-strike.svg": "/static/media/double-strike.83dcc227efd082bfc789.svg",
     "static/media/base-attack.svg": "/static/media/base-attack.65176a6e187ed4d6e101.svg",
-    "main.70b3b8ed.css.map": "/static/css/main.70b3b8ed.css.map",
-    "main.35e3df41.js.map": "/static/js/main.35e3df41.js.map"
+    "main.69274877.css.map": "/static/css/main.69274877.css.map",
+    "main.dd57baba.js.map": "/static/js/main.dd57baba.js.map"
   },
   "entrypoints": [
-    "static/css/main.70b3b8ed.css",
-    "static/js/main.35e3df41.js"
+    "static/css/main.69274877.css",
+    "static/js/main.dd57baba.js"
   ]
 }
