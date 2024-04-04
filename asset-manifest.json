@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec36e5d6.css",
+    "main.css": "/static/css/main.4b4ceada.css",
     "main.js": "/static/js/main.bc341216.js",
     "static/media/dungeon-4.png": "/static/media/dungeon-4.adb2cd288fde5e29ea56.png",
     "static/media/cave-5.png": "/static/media/cave-5.4caf6dd0ff44592a0bda.png",
@@ -37,11 +37,11 @@
     "static/media/scoundrel.png": "/static/media/scoundrel.c0e4a9e37cbd6f0f4fa5.png",
     "static/media/skeleton.png": "/static/media/skeleton.c84484001ff845f7bf8f.png",
     "index.html": "/index.html",
-    "main.ec36e5d6.css.map": "/static/css/main.ec36e5d6.css.map",
+    "main.4b4ceada.css.map": "/static/css/main.4b4ceada.css.map",
     "main.bc341216.js.map": "/static/js/main.bc341216.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec36e5d6.css",
+    "static/css/main.4b4ceada.css",
     "static/js/main.bc341216.js"
   ]
 }
